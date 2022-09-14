@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    color:black;
+    background-color: antiquewhite;
+}
+button{
+    width: 190px;
+}
+.darkMode {
+    color:antiquewhite;
+    background-color: black;
+}
+.menu__item{
+    display: inline-block;
+    justify-content: center;
+}
+.menu__item li{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    transition: 0.5s;
+}
+.menu__item li:hover{
+    background-color: rgb(128, 128, 128);
+    border-radius: 15px;
+}
+.titleMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px;
+}
+.subTittleMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px;
+}
+.formAgregarAlumno{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 50px 200px;
+    border-radius: 10px;
+}
+.grupo__select{
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.formBuscarAlumno{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    margin: 50px 200px;
+}
+.inputNotas{
+    margin: 5px 10px;
+    width: 125px;
+}
+.nuevo__botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.nuevo__botones button{
+    width: 150px;
+}
+.buscar__botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+.buscar__botones button{
+    width: 100px;
+}
+.main__botones{
+    margin: 25px;
+    display: block;
+    justify-content: center;
+}
+.fichaAlumno:hover{
+    background: rgb(200, 200, 199);
+}
+.btnEliminar{
+    margin: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #555;
+}
+.selector{
+    position: absolute;
+    
+}

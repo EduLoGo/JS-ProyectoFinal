@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "alumno": "Juan Ivanovich",
+        "dni": 30500900,
+        "notas": [6,2,4],
+        "promedio": 4
+    },
+    {
+        "id": 2,
+        "alumno": "Daniela Gomez",
+        "dni": 30500901,
+        "notas": [8,8,7],
+        "promedio": 7.66
+    },
+    {
+        "id": 3,
+        "alumno": "Pedro Lopez",
+        "dni": 30500902,
+        "notas": [7,9,6],
+        "promedio": 7.33
+    },
+    {
+        "id": 4,
+        "alumno": "Sofia Echeverria",
+        "dni": 30500903,
+        "notas": [2,8,6],
+        "promedio": 5.33
+    },
+    {
+        "id": 5,
+        "alumno": "Daniela Segovia",
+        "dni": 30500904,
+        "notas": [2,3,5],
+        "promedio": 3.33
+    },
+    {
+        "id": 6,
+        "alumno": "Alejandro Ojeda",
+        "dni": 30500905,
+        "notas": [2,10,2],
+        "promedio": 4.66
+    },
+    {
+        "id": 7,
+        "alumno": "Gustavo Peña",
+        "dni": 30500906,
+        "notas": [1,1,1],
+        "promedio": 1
+    },
+    {
+        "id": 8,
+        "alumno": "Graciela Goitia",
+        "dni": 30500907,
+        "notas": [8,2,9],
+        "promedio": 4
+    },
+    {
+        "id": 9,
+        "alumno": "Solange Aquino",
+        "dni": 30500908,
+        "notas": [8,4,10],
+        "promedio": 7.33
+    },
+    {
+        "id": 10,
+        "alumno": "Ivan Navarro",
+        "dni": 30500909,
+        "notas": [6,6,7],
+        "promedio": 6.33
+    },
+    {
+        "id": 11,
+        "alumno": "Eduardo Lopez Goitia",
+        "dni": 30500910,
+        "notas": [6,8,8],
+        "promedio": 7.33
+    }
+]
